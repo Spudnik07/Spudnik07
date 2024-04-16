@@ -2,7 +2,11 @@
 - 👀 I’m interested in cybersecurity & open-source intelligence gathering
 - 🌱 I’m currently learning RF Hacking, OSINT investigations, RF
 - 💞️ I’m looking to collaborate on purple teaming
+- 😄 Pronouns: He/Him
+
 - 📫 How to reach me:
+
+  
                         —–BEGIN PGP PUBLIC KEY BLOCK—–
         xjMEZgOCIxYJKwYBBAHaRw8BAQdA7nekLV01fsXJ0s8LUJn15J1NQQBGgoYq
         4MxPnfULjnjNLXNwdWRuaWtAY3liZXJzcHVkLm5ldCA8c3B1ZG5pa0BjeWJl
@@ -16,7 +20,6 @@
         0GUQG4oSzSNAVvi1vrk41gg=
         =BeDq
                         —–END PGP PUBLIC KEY BLOCK—–
-- 😄 Pronouns: He/Him
 
 <!---
 Spudnik07/Spudnik07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
