@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spudnik07
 - 👀 I’m interested in cybersecurity & open-source intelligence gathering
-- 🌱 I’m currently learning RF Hacking, OSINT investigations, RF
+- 🌱 I’m currently learning RF Hacking, OSINT investigations, Forensics
 - 💞️ I’m looking to collaborate on purple teaming
 - 😄 Pronouns: He/Him
 
